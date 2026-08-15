@@ -20,11 +20,11 @@ Five classical machine learning classifiers are trained on the same dataset and 
 
 ## Repository
 
-GitHub: [https://github.com/SHIVENDRASINGHKAURAV/shivendra-ml-assignment2](https://github.com/SHIVENDRASINGHKAURAV/shivendra-ml-assignment2)
+GitHub: [https://github.com/SHIVENDRASINGHKAURAV/ML-Assignment-2](https://github.com/SHIVENDRASINGHKAURAV/ML-Assignment-2)
 
 ## Live App
 
-Streamlit app: [https://shivendra-ml-assignment2-g2qev3kkblrwytyuyvwbh3.streamlit.app/](https://shivendra-ml-assignment2-g2qev3kkblrwytyuyvwbh3.streamlit.app/)
+Streamlit app: [https://ml-assignment-2-rt8l3kx7fnrfau4bp6hmfx.streamlit.app/](https://ml-assignment-2-rt8l3kx7fnrfau4bp6hmfx.streamlit.app/)
 
 ## Models Used
 
